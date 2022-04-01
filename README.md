@@ -1,6 +1,10 @@
-# CO-A_UN
+# Quiz game project using c# language.
+<br>
+<br/>
 
-
+## This is a quiz game is focusing on the basics students knowledge and also these quiz questions are consits of the different parts of subjects like: History, Math, Goegraphy, Logic thinking and Planetology.  
+<br>
+<br/>
 
 ![mid](https://user-images.githubusercontent.com/60467856/161280284-51ecf743-4375-4ad2-8ec5-efd715841ad1.gif)
 <br>
@@ -27,4 +31,12 @@
 
 ## Ulan
 ![02](https://user-images.githubusercontent.com/60467856/161283435-9978faac-48cd-4739-9580-f439949736bb.png)
+<br>
+<br>
+
+<br/>
+<br/>
+
+## Muzaffar
+![03](https://user-images.githubusercontent.com/60467856/161284230-f264e639-e022-48f4-a0d6-925713001ae2.png)
 
