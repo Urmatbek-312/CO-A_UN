@@ -39,4 +39,11 @@
 
 ## Muzaffar
 ![03](https://user-images.githubusercontent.com/60467856/161284230-f264e639-e022-48f4-a0d6-925713001ae2.png)
+<br>
+<br>
 
+<br/>
+<br/>
+
+## Nursultan
+![вар](https://user-images.githubusercontent.com/60467856/161425186-e4efa32d-fd92-4c61-a2db-f632eae5747d.png)
